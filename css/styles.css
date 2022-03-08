@@ -1,0 +1,9 @@
+.logo-text {
+  background: #833AB4;
+  background: -webkit-gradient(linear, left top, right top, from(#833AB4), color-stop(50%, #FD1D1D), to(#FCB045));
+  background: linear-gradient(to right, #833AB4 0%, #FD1D1D 50%, #FCB045 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Poppins', sans-serif;
+}
+/*# sourceMappingURL=styles.css.map */

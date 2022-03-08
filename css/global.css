@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: 'Syne Mono', monospace;
+}
+
+.card {
+  border-radius: 50px;
+  background: #E5E3C9;
+  -webkit-box-shadow: 5px 5px 16px #bebca7, -5px -5px 16px #ffffeb;
+          box-shadow: 5px 5px 16px #bebca7, -5px -5px 16px #ffffeb;
+}
+/*# sourceMappingURL=global.css.map */
